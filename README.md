@@ -16,7 +16,7 @@ Pattern : **(/products/:page)**
 **https://project1-246611.appspot.com/products/keyboard/1**  
 Pattern : **(/products/:type/:page)**
 
-API data limit is set to 10 entries per pages, Also user can navigate using buttons at bottom to see more data which is displayed in the table.
+API data limit is set to 10 entries per pages, Also user can navigate using buttons at bottom to see more data which is displayed in the table. Total 1002 data enteries in database.  
 
 
   
