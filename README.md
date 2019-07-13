@@ -10,10 +10,10 @@
 # Hosting URL's 
 
 **https://project1-246611.appspot.com/products/1** - Displays list of all products.  
-(/products/:page)
+Pattern : **(/products/:page)**
 
 **https://project1-246611.appspot.com/products/Mouse/1** - Displays list of products with type as Mouse in the URL.  
-(/products/:type/:page)
+Pattern : **(/products/:type/:page)**
 
 API data limit is set to 10 entries per pages, Also user can navigate using buttons at bottom to see more data which is displayed in the table.
 
