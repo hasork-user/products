@@ -1,6 +1,6 @@
-# Products Detail REST service
+# Product Details REST service
 
-# Technology Used :-
+## Technology Used :-
   Database :- MongoDB.
   Modules used :- Express, Mongoose, ejs, Faker(Used for adding data to database).
   Software used :- Sublime Text 3, Git Bash.
@@ -9,7 +9,7 @@
   
 # Hosting URL's 
 
-https://project1-246611.appspot.com/products/1 - Displays list of all products.
+**https://project1-246611.appspot.com/products/1** - Displays list of all products.
 (/products/:page)
 
 https://project1-246611.appspot.com/products/Mouse/1 - Displays list of products with type as Mouse in the URL.
