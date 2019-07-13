@@ -7,7 +7,7 @@
   Google Cloud Platform for deployment of project.  
   MongoDB Atlas.
   
-# Hosting URL's 
+## Hosting URL's 
 
 **https://project1-246611.appspot.com/products/1** - Displays list of all products.  
 Pattern : **(/products/:page)**
