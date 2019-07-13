@@ -1,7 +1,7 @@
 # Product Details REST service
 
 ## Technology Used :-
-  Database :- MongoDB.
+  Database :- MongoDB.  
   Modules used :- Express, Mongoose, ejs, Faker(Used for adding data to database).
   Software used :- Sublime Text 3, Git Bash.
   Google Cloud Platform for deployment of project.
